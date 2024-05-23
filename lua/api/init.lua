@@ -1,0 +1,16 @@
+_G.fignvim = {}
+
+require("api.ui")
+require("api.plug")
+require("api.git")
+require("api.config")
+require("api.vars")
+require("api.functions")
+require("api.term")
+require("api.tables")
+require("api.search")
+require("api.string")
+require("api.path")
+require("api.debug")
+require("api.module")
+require("api.mappings")

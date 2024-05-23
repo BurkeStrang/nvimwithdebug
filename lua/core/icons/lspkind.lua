@@ -1,0 +1,17 @@
+return {
+  NONE = "",
+  Null = "NULL",
+  Number = "#",
+  Object = "⦿",
+  Property = "",
+  Reference = "",
+  Snippet = "",
+  Unit = "",
+  Variable = "",
+  Interface = "",
+  Module = "",
+  Enum = "",
+  EnumMember = "",
+  Event = "",
+  Operator = "",
+}
